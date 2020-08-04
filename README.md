@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MateusFranceschina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domateus/)](https://www.linkedin.com/in/domateus/) 
+
+
