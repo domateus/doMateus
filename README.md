@@ -20,7 +20,7 @@ Computer Science student and math addicted.
 
 Learning every day something new and always ready to make a good use of it.
 
-Highly interested not only in Web Development :computer: & Data Science :chart_with_upwards_trend:, but also in languages (zur Zeit, Ich bin Deutsch zu lernen 🇩🇪) and financial market
+Highly interested not only in Web Development :computer: & Data Science :chart_with_upwards_trend:, but also in languages (zur Zeit, Ich bin Deutsch zu lernen) and financial market
 
 You can reach me using the following badges 
 
